@@ -18,9 +18,9 @@ A simple Python tool to hide and extract secret messages inside (.png) images us
 
 ## 📦 Installation
 
-git clone https://github.com/0diNx1/StegHidePng.git
-cd StegHidePng
-pip3 install -r requirements.txt
+- git clone https://github.com/0diNx1/StegHidePng.git
+- cd StegHidePng
+- pip3 install -r requirements.txt
 
 
 ## 🛡️ Disclaimer
